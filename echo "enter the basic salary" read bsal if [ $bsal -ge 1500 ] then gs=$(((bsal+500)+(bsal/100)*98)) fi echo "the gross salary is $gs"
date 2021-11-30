@@ -1,0 +1,7 @@
+echo "enter the basic salary"
+read bsal
+if [ $bsal -ge 1500 ]
+then
+gs=$(((bsal+500)+(bsal/100)*98))
+fi
+echo "the gross salary is $gs"
