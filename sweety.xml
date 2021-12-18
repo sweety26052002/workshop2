@@ -1,0 +1,26 @@
+﻿<catalog>
+<book>
+<title>XML BIBLE</title>
+<author>WINSTON</author>
+<publication>WIELY</publication>
+<edition>FITTH EDITION</edition>
+<isbn>0-7645-4750-7</isbn>
+<price>$40.5</price>
+</book>
+<book>
+<title>ARTIFICIAL INTELLIGENCE</title>
+<author>S.RUSSEL</author>
+<publication>PRINCETON HALL</publication>
+<edition>SIXTH EDITION</edition>
+<isbn>0-13-108-5-2</isbn>
+<price>$63</price>
+</book>
+<book>
+<title>JAVA 2</title>
+<author>WATSON</author>
+<publication>BPB </publication>
+<edition>THIRD EDITION</edition>
+<isbn>0-1-22-1</isbn>
+<price>$246</price>
+</book>
+</catalog>
